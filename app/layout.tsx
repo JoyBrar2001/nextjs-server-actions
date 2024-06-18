@@ -6,7 +6,7 @@ import Footer from "@/components/Footer";
 
 import "./globals.css";
 
-export const dmSans = DM_Sans({ 
+const dmSans = DM_Sans({ 
   subsets: ["latin"],
 });
 
